@@ -11,7 +11,7 @@
     "@mdi/font": "5.3.45",
     "@mdi/js": "5.3.45",
     "@vue/cli-plugin-babel": "4.4.1",
-    "vue": "2.6.11",
+    "vue": "3.0.0",
     "vue-material-design-icons": "4.7.1",
     "vue-router": "3.3.2",
     "vuetify": "2.2.32",
